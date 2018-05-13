@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1526202361 source:/home/kiraright/BattleshipNew/Server/main.cpp
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<unistd.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<vector>
+
