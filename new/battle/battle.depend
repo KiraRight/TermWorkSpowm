@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1526190582 source:/home/kiraright/new/battle/main.cpp
+	<time.h>
+	<SFML/Graphics.hpp>
+	"Game.h"
+
+1526202523 /home/kiraright/new/battle/include/Game.h
+	<SFML/Graphics.hpp>
+	"Menu.h"
+	"Board.h"
+	"StartGameWindow.h"
+	"Fight.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<netdb.h>
+	<arpa/inet.h>
+
+1525107494 /home/kiraright/new/battle/include/Menu.h
+	<SFML/Graphics.hpp>
+	<vector>
+
+1526151438 /home/kiraright/new/battle/include/Board.h
+	"Cell.h"
+	<ctime>
+	<stdlib.h>
+	<iostream>
+
+1526200156 /home/kiraright/new/battle/include/Cell.h
+
+1526185234 /home/kiraright/new/battle/include/StartGameWindow.h
+	<SFML/Graphics.hpp>
+	"Board.h"
+
+1526151514 source:/home/kiraright/new/battle/src/Board.cpp
+	"Board.h"
+
+1526200156 source:/home/kiraright/new/battle/src/Cell.cpp
+	"Cell.h"
+
+1526201999 source:/home/kiraright/new/battle/src/Game.cpp
+	"Game.h"
+
+1525107494 source:/home/kiraright/new/battle/src/Menu.cpp
+	"Menu.h"
+
+1526185085 source:/home/kiraright/new/battle/src/StartGameWindow.cpp
+	"StartGameWindow.h"
+
+1526201999 source:/home/kiraright/new/battle/src/Fight.cpp
+	"Fight.h"
+
+1526201999 /home/kiraright/new/battle/include/Fight.h
+	<SFML/Graphics.hpp>
+	"Board.h"
+	<cstring>
+
