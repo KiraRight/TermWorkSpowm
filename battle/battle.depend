@@ -1,0 +1,87 @@
+# depslib dependency file v1.0
+1526920456 source:/home/kiraright/HelloBattleship/battle/main.cpp
+	<time.h>
+	<SFML/Graphics.hpp>
+	"Game.h"
+
+1527581843 source:/home/kiraright/HelloBattleship/battle/src/Board.cpp
+	"Board.h"
+
+1527581843 /home/kiraright/HelloBattleship/battle/include/Board.h
+	"Cell.h"
+	<ctime>
+	<stdlib.h>
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<unistd.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<netdb.h>
+	<arpa/inet.h>
+
+1526748392 /home/kiraright/HelloBattleship/battle/include/Cell.h
+
+1527581843 source:/home/kiraright/HelloBattleship/battle/src/Cell.cpp
+	"Cell.h"
+
+1527581843 source:/home/kiraright/HelloBattleship/battle/src/Fight.cpp
+	"Fight.h"
+
+1527581843 /home/kiraright/HelloBattleship/battle/include/Fight.h
+	<SFML/Graphics.hpp>
+	"Board.h"
+	<cstring>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<netdb.h>
+	<arpa/inet.h>
+
+1527584994 source:/home/kiraright/HelloBattleship/battle/src/Game.cpp
+	"Game.h"
+
+1527326469 /home/kiraright/HelloBattleship/battle/include/Game.h
+	<SFML/Graphics.hpp>
+	"Menu.h"
+	"Board.h"
+	"StartGameWindow.h"
+	"Fight.h"
+	"WinMessage.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<netdb.h>
+	<arpa/inet.h>
+	<sys/time.h>
+
+1526748392 /home/kiraright/HelloBattleship/battle/include/Menu.h
+	<SFML/Graphics.hpp>
+	<vector>
+
+1526763357 /home/kiraright/HelloBattleship/battle/include/StartGameWindow.h
+	<SFML/Graphics.hpp>
+	"Board.h"
+
+1526750223 /home/kiraright/HelloBattleship/battle/include/WinMessage.h
+	<string>
+	<SFML/Graphics.hpp>
+
+1527026543 source:/home/kiraright/HelloBattleship/battle/src/Menu.cpp
+	"Menu.h"
+
+1527584994 source:/home/kiraright/HelloBattleship/battle/src/StartGameWindow.cpp
+	"StartGameWindow.h"
+
+1527026543 source:/home/kiraright/HelloBattleship/battle/src/WinMessage.cpp
+	"WinMessage.h"
+
